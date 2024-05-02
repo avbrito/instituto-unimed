@@ -1,0 +1,16 @@
+.cardsConselheirosConsultivo{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+    
+}
+
+#cardConselheiros{
+    border: none;
+    box-shadow: 0px 6px 5px 0px #B9B8B7;
+}
+
+.centered-card {
+    margin-left: 50%;
+    width: 100%;
+}

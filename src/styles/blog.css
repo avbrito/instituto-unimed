@@ -1,0 +1,68 @@
+html, body {
+    overflow-x: hidden;
+}
+
+#navbar {
+    background-color: #008050;
+    height: 90px;
+    border-bottom: 4px solid #B1CD54;
+}
+
+#brand{
+    margin: 10 auto;
+    width: auto;
+
+}
+
+#imgBanner {
+    width: 100%;
+    height: auto;
+}
+
+.nasce {
+    color: #008050;
+    font-weight: 600;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 30px;
+    
+}
+
+.textFirst {
+    color: #848D8B;
+    text-align: center;
+    font-weight: 600;
+    padding-top: 10px;
+}
+
+.parteBaixo{
+    background-color: #E5F5F0;
+}
+
+.parteBranca{
+    background-color: #fff;
+}
+
+.programas{
+    color: #2CBC95;
+    font-size: 22px;
+    padding-top: 12%;
+    font-weight: 500;
+    
+}
+
+.transformam{
+    color: #3E554F;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: -12px;
+}
+
+#crianca{
+    margin-top: 15%;
+}
+
+.bg-body-tertiary{
+    background-color: #008050 !important;
+    --bs-bg-opacity: 1;
+}

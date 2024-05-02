@@ -1,0 +1,28 @@
+.explicacao{
+    color: #848D8B;
+    font-weight: 400;
+    font-size: 17px;
+}
+
+#inspiracao{
+    width: 60%;
+}
+
+#viva{
+    width: 40%;
+}
+
+#impulso{
+    width: 65%;
+}
+
+#clique{
+    background-color: #2CBC95;
+    border: none;
+    font-size: 14px;
+    text-align: center;
+    width: 60%;
+    color: #fff;
+    font-weight: 600;
+    padding: 10px; 
+}

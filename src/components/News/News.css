@@ -1,0 +1,34 @@
+#newsTop{
+    margin-top: 10%;
+}
+
+#tabel{
+    text-align: start;
+}
+
+#tabel table {
+    max-width: 80%; 
+    margin: 0 auto; 
+    /* border: 1px solid #ddd; */
+}
+
+#tabel table tbody td {
+    max-width: 150px; 
+    padding: 5px; 
+}
+
+#tabel table tbody td a {
+    max-width: 100%; 
+    display: inline-block;
+}
+
+#tabel table tbody td img {
+    width: 85%;
+    height: 200px; 
+    margin-left: 40px;
+}
+
+#names{
+    text-align: start;
+}
+

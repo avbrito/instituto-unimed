@@ -1,0 +1,48 @@
+#formulario {
+    width: 68%; 
+    margin: 0 auto; 
+}
+
+.form-control {
+    width: 100%; 
+}
+
+#envie{
+    background-color: #2CBC95;
+    border: none;
+    font-size: 14px;
+    text-align: center;
+    width: 100%;
+    color: #fff;
+    font-weight: 600;
+    padding: 10px; 
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+.btnVerde{
+    width: 35%; 
+    margin: 0 auto; 
+}
+
+#contact{
+    color: #008050;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#borda-inferior {
+    border: none; 
+    border-bottom: 2px solid #CDCDCD;
+    outline:none;
+}
+
+#borda-inferior:focus {
+    border: none; 
+    border-bottom: 2px solid #176B87;
+    outline:none;
+}
+
+#bordaCaixa{
+    border-color: #CDCDCD;
+}

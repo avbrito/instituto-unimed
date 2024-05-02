@@ -1,0 +1,36 @@
+.my-form {
+    border: 1px solid #2CBC95; /* Adiciona uma borda de 1px sólida cinza ao redor do formulário */
+    border-radius: 80px;
+    padding: 200px; /* Adiciona preenchimento interno ao redor do formulário */
+    padding-top: 50px;
+    width: 100%; /* Define a largura máxima do formulário */
+    margin: 20 auto; /* Centraliza o formulário na tela */
+    text-align: start;
+}
+
+.form-check-input{
+    border: 1px solid #404040;
+}
+
+.custom-file-label{
+    content: "Anexo";
+}
+
+#anexar{
+    background-color: #C4D9D3;
+    border: none;
+    border-radius: 5px;
+    width: 120px;
+}
+
+#obs{
+    font-size: 12px;
+    color: #B6B1C1;
+}
+
+#enviar{
+    background-color: #2CBC95;
+    color: #fff;
+    border: none;
+    width: 200px;
+}
