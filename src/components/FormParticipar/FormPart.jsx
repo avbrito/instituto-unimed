@@ -293,7 +293,7 @@ function FormPart() {
                 </div>
 
 
-                <div className="mb-3 d-flex justify-content-center"> {/* Adicionando a classe e o estilo aqui */}
+                <div className="mb-3 d-flex justify-content-center">
                     <button type="submit" className="btn btn-primary" id='enviar'>Enviar Projeto</button>
                 </div>
             </form>

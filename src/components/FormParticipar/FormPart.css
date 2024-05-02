@@ -1,10 +1,10 @@
 .my-form {
-    border: 1px solid #2CBC95; /* Adiciona uma borda de 1px sólida cinza ao redor do formulário */
+    border: 1px solid #2CBC95; 
     border-radius: 80px;
-    padding: 200px; /* Adiciona preenchimento interno ao redor do formulário */
+    padding: 200px; 
     padding-top: 50px;
-    width: 100%; /* Define a largura máxima do formulário */
-    margin: 20 auto; /* Centraliza o formulário na tela */
+    width: 100%; 
+    margin: 20 auto; 
     text-align: start;
 }
 
