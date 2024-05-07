@@ -52,7 +52,7 @@ function NavScrollExample() {
             </div>
             <div className="parteBranca" style={{alignItems: 'center'}}>
                 <div class="row m-auto" style={{marginTop:'5%'}}>
-                    <div class="col" style={{marginLeft:'15%'}}>
+                    <div class="col" id="criancaCol">
                         <img src={crianca} id="crianca" />
                     </div>
                     <div class="col">

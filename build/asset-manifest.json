@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f6f6814b.css",
+    "main.js": "/static/js/main.8393ee15.js",
+    "static/js/453.275d4707.chunk.js": "/static/js/453.275d4707.chunk.js",
+    "static/media/bannerBlog.png": "/static/media/bannerBlog.6e6e703b96a6a9b736ae.png",
+    "static/media/crianca2.png": "/static/media/crianca2.c9294368d3ddf809ddb9.png",
+    "static/media/banner.png": "/static/media/banner.c93b89b2441cd73a199b.png",
+    "static/media/homemimpulso.png": "/static/media/homemimpulso.318722a498043bad8603.png",
+    "static/media/maos.png": "/static/media/maos.d0aaf0efd036b2e34f9c.png",
+    "static/media/noticia3.png": "/static/media/noticia3.17c8aac56ef55259e8e2.png",
+    "static/media/eliane.png": "/static/media/eliane.227abbfb9f502043f6a4.png",
+    "static/media/noticia2.png": "/static/media/noticia2.193ece6344538289da72.png",
+    "static/media/marcelo.png": "/static/media/marcelo.7134760a3e008f421f54.png",
+    "static/media/joao.png": "/static/media/joao.3fb5ae17e115a7132340.png",
+    "static/media/livia.png": "/static/media/livia.d5f818d850d719fcb0b9.png",
+    "static/media/francisco.png": "/static/media/francisco.4a09e3641c1512d15017.png",
+    "static/media/noticia5.png": "/static/media/noticia5.bd689a44e7b5bc3f0e6d.png",
+    "static/media/gustavo.png": "/static/media/gustavo.3e06c71ba5c59af938a1.png",
+    "static/media/raphael.png": "/static/media/raphael.b71507d2d7c6fabe8375.png",
+    "static/media/liliana.png": "/static/media/liliana.a5380e204e43cfb2f2c6.png",
+    "static/media/gobbo.png": "/static/media/gobbo.a62cef70de84d2695e80.png",
+    "static/media/edvaldo.png": "/static/media/edvaldo.8b557ef49964f6535415.png",
+    "static/media/noticia6.png": "/static/media/noticia6.78e3f57bfb328f2a680b.png",
+    "static/media/noticia1.png": "/static/media/noticia1.ea5a6ecf0e083bec9af3.png",
+    "static/media/noticia4.png": "/static/media/noticia4.bb39c0107f532f6472d6.png",
+    "static/media/impulso.png": "/static/media/impulso.a90ea77e8783ee5084b3.png",
+    "static/media/viva.png": "/static/media/viva.12e8556ce55a1dca3595.png",
+    "index.html": "/index.html",
+    "main.f6f6814b.css.map": "/static/css/main.f6f6814b.css.map",
+    "main.8393ee15.js.map": "/static/js/main.8393ee15.js.map",
+    "453.275d4707.chunk.js.map": "/static/js/453.275d4707.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6f6814b.css",
+    "static/js/main.8393ee15.js"
+  ]
+}
