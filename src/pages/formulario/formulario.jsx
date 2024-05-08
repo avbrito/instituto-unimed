@@ -53,8 +53,8 @@ function NavScrollExample() {
                         <br />
                         <AlinhamentoForm />
                     </div>
-                    <div class="col" style={{marginLeft:'5%'}}>
-                        <img src={impulso} id="maos" />
+                    <div class="col-12 col-md-6" style={{marginLeft:'5%'}}>
+                        <img src={impulso} id="maos" className="img-fluid" />
                     </div>
                 </div>
                 <br /><br /><br />

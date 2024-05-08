@@ -34,3 +34,14 @@
     border: none;
     width: 200px;
 }
+
+@media (max-width: 720px){
+    .my-form {
+        padding: 50px; 
+        width: 100%; 
+    }
+
+    #declaro{
+        margin-left: -15px;
+    }
+}
