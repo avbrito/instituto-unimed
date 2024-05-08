@@ -41,7 +41,7 @@ function Cards() {
           <Card.Img 
               variant="top" 
               src={card.image} 
-              style={{ width: '50%', height: '100px', alignSelf:'center' }} 
+              style={{ width: 'auto', height: '100px', alignSelf:'center' }} 
             />
             <Card.Body style={{ display: 'flex', flexDirection: 'column'}}>
               <Card.Title style={{ fontSize: '1.5rem', fontWeight: 'bold', color:'#3E554F', textAlign:'center' }}>{card.title}</Card.Title> 

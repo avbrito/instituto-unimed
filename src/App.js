@@ -4,7 +4,7 @@ import  Home  from "../src/pages/home/home.jsx";
 import Institucional from './pages/institucional/institucional.jsx';
 import Blog from './pages/blog/blog.jsx';
 import Formulario from './pages/formulario/formulario.jsx';
-//import Blog from './components/Blog/Blog.jsx';
+
 
 
  
@@ -18,7 +18,6 @@ function App() {
         <Route path="/Institucional" element={<Institucional />}> </Route>
         <Route path="/Blog" element={<Blog />}> </Route> 
         <Route path="/Formulario" element={<Formulario />}></Route> 
-        {/* <Route path="/Blog" element={<Blog />}></Route> */}
       </Routes>
     </Router>
   );

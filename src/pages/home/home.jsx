@@ -51,11 +51,11 @@ function NavScrollExample() {
                 <br /><br /><br />
             </div>
             <div className="parteBranca" style={{alignItems: 'center'}}>
-                <div class="row m-auto" style={{marginTop:'5%'}}>
-                    <div class="col" id="criancaCol">
-                        <img src={crianca} id="crianca" />
+                <div className="row m-auto" style={{marginTop:'5%'}}>
+                    <div className="col-12 col-md-6" id="criancaCol">
+                        <img src={crianca} id="crianca" className="img-fluid" />
                     </div>
-                    <div class="col">
+                    <div className="col">
                         <p className="programas">Programas que</p>
                         <p className="transformam">Transformam Vidas</p>
                         <br />

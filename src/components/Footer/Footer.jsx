@@ -16,16 +16,16 @@ function Footer() {
                         </div>
                         <div class="col-lg-3 col-md-12 mb-4 mb-md-0">
                             <p>
-                                <a href='#' style={{textDecoration: 'none', color:'#848D8B'}}>Institucional</a>
+                                <a href='/Institucional' style={{textDecoration: 'none', color:'#848D8B'}}>Institucional</a>
                             </p>
                             <p>
                                 <a href='#' style={{textDecoration: 'none', color:'#848D8B'}}>Atuação</a>
                             </p>
                             <p>
-                                <a href='#' style={{textDecoration: 'none', color:'#848D8B'}}>Blog e Notícias</a>
+                                <a href='/Blog' style={{textDecoration: 'none', color:'#848D8B'}}>Blog e Notícias</a>
                             </p>
                             <p>
-                                <a href='#' style={{textDecoration: 'none', color:'#848D8B'}}>Incentivos Fiscais</a>
+                                <a href='/Formulario' style={{textDecoration: 'none', color:'#848D8B'}}>Incentivos Fiscais</a>
                             </p>
                         </div>
                         <div class="col-lg-3 col-md-12 mb-4 mb-md-0">

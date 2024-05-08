@@ -23,14 +23,17 @@ const cardsData = [
 
 function CardsDiretoriaExecutiva() {
   return (
-    <Row xs={1} md={2} className="CardsDiretoriaExecutiva">
+    <Row xs={1} md={3} className="CardsDiretoriaExecutiva">
       {cardsData.map((card, idx) => (
         <Col key={idx} style={{ marginBottom: '20px' }}>
-          <Card style={{ height: '100%' }} id='cardConselheiros'>
-          <Card.Img 
-              variant="top" 
-              src={card.image} 
-              style={{ width: '100%', height: 'auto', alignSelf:'center' }} 
+          <Card
+            style={{ height: '100%' }}
+            className={idx === 3 || idx === 4 ? 'centered-card' : ''}
+          >
+          <Card.Img
+              variant="top"
+              src={card.image}
+              style={{ width: '100%', height: 'auto', alignSelf: 'center' }}
             />
             <Card.Body style={{ display: 'flex', flexDirection: 'column'}}>
               <Card.Title style={{ fontSize: '1.5rem', fontWeight: 'bold', color:'#3E554F'}}>{card.title}</Card.Title> 

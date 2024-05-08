@@ -67,3 +67,8 @@
     --bs-bg-opacity: 1;
 }
 
+@media (max-width: 720px){
+    #criancaCol{
+        margin-left: 0%;
+    }
+}

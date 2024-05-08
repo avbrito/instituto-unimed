@@ -1,6 +1,6 @@
 .CardsDiretoriaExecutiva{
-    width: 54%;
-    margin-left: 22%;
+    width: 80%;
+    margin-left: 25%;
     margin-top: 5%;
     
 }
@@ -8,4 +8,13 @@
 #cardConselheiros{
     border: none;
     box-shadow: 0px 6px 5px 0px #B9B8B7;
+}
+
+@media (max-width: 720px){
+    .CardsDiretoriaExecutiva{
+        
+        margin-left: 10%;
+        
+        
+    }
 }
