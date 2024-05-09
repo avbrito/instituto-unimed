@@ -33,8 +33,8 @@ function News() {
                   <p className="text-muted">Redefined the user acquisition and redesigned the onboarding experience, all within 3 working weeks.</p>
                 </a>
               </td>
-              <td>
-                <img src={noticia1} alt="coracao" className="news-image" />
+              <td class="col-12 col-md-6">
+                <img src={noticia1} alt="coracao" className="img-fluid" />
               </td>
             </tr>
             <tr>
@@ -45,8 +45,8 @@ function News() {
                   <p className="text-muted">Redefined the user acquisition and redesigned the onboarding experience, all within 3 working weeks.</p>
                 </a>
               </td>
-              <td>
-                <img src={noticia2} alt="lapis" className="news-image" />
+              <td class="col-12 col-md-6">
+                <img src={noticia2} alt="lapis" className="img-fluid" />
               </td>
             </tr>
             <tr>
@@ -57,8 +57,8 @@ function News() {
                   <p className="text-muted">Redefined the user acquisition and redesigned the onboarding experience, all within 3 working weeks.</p>
                 </a>
               </td>
-              <td>
-                <img src={noticia3} alt="mao" className="news-image" />
+              <td class="col-12 col-md-6">
+                <img src={noticia3} alt="mao" className="img-fluid" />
               </td>
             </tr>
           </tbody>
@@ -84,8 +84,8 @@ function News() {
                   <p className="text-muted">Redefined the user acquisition and redesigned the onboarding experience, all within 3 working weeks.</p>
                 </a>
               </td>
-              <td>
-                <img src={noticia4} alt="coracao" className="news-image" />
+              <td class="col-12 col-md-6">
+                <img src={noticia4} alt="coracao" className="img-fluid"/>
               </td>
             </tr>
             <tr>
@@ -96,8 +96,8 @@ function News() {
                   <p className="text-muted">Redefined the user acquisition and redesigned the onboarding experience, all within 3 working weeks.</p>
                 </a>
               </td>
-              <td>
-                <img src={noticia5} alt="lapis" className="news-image" />
+              <td class="col-12 col-md-6">
+                <img src={noticia5} alt="lapis" className="img-fluid"/>
               </td>
             </tr>
             <tr>
@@ -108,8 +108,8 @@ function News() {
                   <p className="text-muted">Redefined the user acquisition and redesigned the onboarding experience, all within 3 working weeks.</p>
                 </a>
               </td>
-              <td>
-                <img src={noticia6} alt="mao" className="news-image" />
+              <td class="col-12 col-md-6">
+                <img src={noticia6} alt="mao" className="img-fluid"/>
               </td>
             </tr>
           </tbody>
